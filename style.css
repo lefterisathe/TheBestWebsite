@@ -1,0 +1,45 @@
+#bodyindex{
+    background-color: black;
+}
+
+h1{
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h2{
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    color: greenyellow;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#a1{
+    color: orange;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align-last: center;
+}
+
+#h1_1{
+    color:orange;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+}
+
+#mafakasrooms{
+    color:greenyellow;
+    font-family: Cursive, Arial;
+}
+
+#panossite{
+    color:greenyellow;
+    font-family: Cursive, Arial;
+    text-align: center;
+}

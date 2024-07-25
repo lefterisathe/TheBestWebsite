@@ -1,0 +1,33 @@
+body{
+    background-color:black;
+}
+
+h1{
+    color: greenyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+#emailtag{
+    color: yellowgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 27px;
+
+}
+
+#phonetag{
+    color: yellowgreen;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 27px;
+}
+
+pr{
+    color:deepskyblue;
+    font-family: Cursive, Arial;
+    font-size: medium;
+}
+
+#returntomain{
+    color:greenyellow;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
